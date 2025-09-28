@@ -1,8 +1,8 @@
 # Projeto de Conclusão da Unidade III - Algoritmos e Estrutura de Dados
 
-**Aluno:** William Brito
-**Curso:** Análise e Desenvolvimento de Sistemas
-**Disciplina:** Algoritmos e Estrutura de Dados
+- **Aluno:** William Brito
+- **Curso:** Análise e Desenvolvimento de Sistemas
+- **Disciplina:** Algoritmos e Estrutura de Dados
 
 ### 📚 Descrição do Projeto
 
@@ -93,3 +93,4 @@ A seguir, uma descrição da lógica e dos conceitos aplicados em cada atividade
 **10 - Ordenação de Grafos**
 * **Descrição:** Organiza um conjunto de tarefas que possuem dependências entre si (ex: uma tarefa deve ser feita antes de outra).
 * **Conceitos Aplicados:** **Ordenação Topológica** (usando o Algoritmo de Kahn), que organiza os vértices de um Grafo Acíclico Direcionado (DAG) em uma sequência linear válida.
+
